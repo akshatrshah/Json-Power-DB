@@ -41,8 +41,22 @@ Benefits of using Json-Power-DB?
 
 
 Screenshots(Outputs):
+
 Index page:
 ![2022-06-20 (2)](https://user-images.githubusercontent.com/66900011/174565872-99ad4ece-991f-444c-bdaa-05dd9ed5b058.png)
+
+Create page:
+![image](https://user-images.githubusercontent.com/66900011/174568545-7af47776-dd97-4cc7-a891-7d1d533828af.png)
+
+Read page:
+![image](https://user-images.githubusercontent.com/66900011/174568757-b0e11550-b1a4-4de3-9987-c6f991732271.png)
+
+Update page:
+![image](https://user-images.githubusercontent.com/66900011/174568897-d3985bda-d52a-4b0a-9c14-6c40a3ea1942.png)
+
+Delete pge:
+![image](https://user-images.githubusercontent.com/66900011/174568936-fbf605df-0aec-4099-a76f-d83e28163181.png)
+
 
 Dashboard:
 ![image](https://user-images.githubusercontent.com/66900011/174566529-751eec64-5791-480e-adde-c57df689a4eb.png)
