@@ -3,11 +3,16 @@
 Documentation Link:
 https://login2explore.com/jpdb/docs.html
 
+
 This the mini project done for Login2Xplore. 
 The porject contains basics of Json Power Database(JPDB) and CRUD operations on a JPDB.
 
+
+
 What is Json-Power-DB?
 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
+
+
 
 What are the prominent features of Json-Power-DB?
 - Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
@@ -23,12 +28,16 @@ What are the prominent features of Json-Power-DB?
 - Multiple security layers.
 - Nimble, Simple to use, In Memory, Real-time DBMS.
 
+
+
 Benefits of using Json-Power-DB?
 - Simplest way to retrieve data in a JSON format.
 - Schema-free, Simple to use, Nimble and In-Memory database.
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
+
+
 
 
 Screenshots(Outputs):
