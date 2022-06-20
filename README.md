@@ -1,5 +1,8 @@
 # Json-Power-DB
 
+Documentation Link:
+https://login2explore.com/jpdb/docs.html
+
 This the mini project done for Login2Xplore. 
 The porject contains basics of Json Power Database(JPDB) and CRUD operations on a JPDB.
 
@@ -35,6 +38,8 @@ Index page:
 Dashboard:
 ![image](https://user-images.githubusercontent.com/66900011/174566529-751eec64-5791-480e-adde-c57df689a4eb.png)
 
-JPDB:
+JPDB(employee db):
 ![image](https://user-images.githubusercontent.com/66900011/174566428-1597fbb0-78cc-46ca-a490-7e87f7e5aba0.png)
 
+JPDB(student db):
+![image](https://user-images.githubusercontent.com/66900011/174567799-398ea276-a588-4eb0-a055-d886dfc6666a.png)
