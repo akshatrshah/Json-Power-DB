@@ -1,0 +1,51 @@
+CRUD OPERATIONS USING TALEND API
+(The token is changed for privacy reasons)
+
+
+
+CREATE:
+{
+    "token": "90939380|",
+    "cmd": "PUT",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+        "id": "1",
+        "name": "Soniya",
+        "email": "soniya@gmail.com",
+        "mobileno": "9967825671"
+    }
+}
+
+READ:
+{
+    "token": "90939380|",
+    "cmd": "GET",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr":{
+        "name": "Arpit Todewal"
+    }
+} 
+
+UPDATE:
+{
+    "token": "90939380|",
+    "cmd": "UPDATE",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+      "1":{"name":"soniye"},
+      "2":{"mobileno":9898989898}, 
+   }
+}
+
+DELETE:
+{
+    "token": "90939380|",
+    "cmd": "REMOVE",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "record": 1,
+    "jsonStr" : {}
+}
