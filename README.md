@@ -7,12 +7,27 @@ https://login2explore.com/jpdb/docs.html
 This the mini project done for Login2Xplore. 
 The porject contains basics of Json Power Database(JPDB) and CRUD operations on a JPDB.
 
+_______________________________________________________________________________________________________________________________________________________________________
 
+Content:
+
+-What is JPDB
+
+-Features of JPDB
+
+-Benefits of JPDB
+
+-Screenshots(Outputs)
+
+-Release date
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 What is Json-Power-DB?
 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 
 
+_______________________________________________________________________________________________________________________________________________________________________
 
 What are the prominent features of Json-Power-DB?
 - Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
@@ -28,6 +43,7 @@ What are the prominent features of Json-Power-DB?
 - Multiple security layers.
 - Nimble, Simple to use, In Memory, Real-time DBMS.
 
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 Benefits of using Json-Power-DB?
@@ -38,6 +54,7 @@ Benefits of using Json-Power-DB?
 - It helps developers in faster coding, in-turn reduces development cost.
 
 
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 Screenshots(Outputs):
@@ -66,3 +83,7 @@ JPDB(employee db):
 
 JPDB(student db):
 ![image](https://user-images.githubusercontent.com/66900011/174567799-398ea276-a588-4eb0-a055-d886dfc6666a.png)
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Release data: 20-06-2022
